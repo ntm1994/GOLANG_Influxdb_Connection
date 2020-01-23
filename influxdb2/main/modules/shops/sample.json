@@ -1,0 +1,16 @@
+{
+"Timestamp":"1579698559000+",
+"QualiaID":1254,
+"PlateNumber":"BDC2246",
+"DeviceId":"12345",
+"Version":"0.1",
+"AdvertisementId":"12345",
+"EmojiStatus":"2244",
+"InfoCount":"+infoClickCount+",
+  "BatteryLevel":12,
+  "GatewayId":"12345",
+"Location":{
+"Latitude":"001545",
+"Longitude":"002745"
+}
+}
